@@ -1,3 +1,4 @@
+```text
 ID artefak       : LAB-P02-UC
 Judul            : UNIFIED MODELLING LANGUAGE (UML)
 Pertemuan        : 02
@@ -9,3 +10,4 @@ Versi dan tanggal: v01 5-10-2026
 Asumsi           : Hak akses sesuai; autentikasi di luar latihan
 Pemeriksaan      : 
 Riwayat revisi   : 
+```
