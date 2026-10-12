@@ -4,5 +4,5 @@ Nama      : Erika Alvia Nurfadilah
 Kelas     : Informatika A
 Matakuliah: Prak. Analisis & Desain Berorentasi Objek
 Kakas     : Draw. Io
-Status latihan : USE CASE DIAGRAM DAN USE CASE DESCRIPTION
+Status latihan : Pertemuan 2 USE CASE DIAGRAM DAN USE CASE DESCRIPTION
 ```
