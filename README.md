@@ -4,5 +4,5 @@ Nama      : Erika Alvia Nurfadilah
 Kelas     : Informatika A
 Matakuliah: Prak. Analisis & Desain Berorentasi Objek
 Kakas     : Draw. Io
-Status latihan : Pertemuan 4 USE CASE DIAGRAM LANJUTAN: GENERALIZATION DAN COLLABORATION
+Status latihan : PERTEMUAN 5 SKENARIO USE CASE: DARI DIAGRAM KE LANGKAH KEGIATAN
 ```
