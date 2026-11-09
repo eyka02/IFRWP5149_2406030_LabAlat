@@ -39,6 +39,7 @@ aturan denda.
 mempunyai representasi pada diagram kumulatif, arah generalization dan
 realization benar, dan diagram konsisten dengan deskripsinya.
 
+
 | Aktor | Kedudukan | Tujuan terhadap Sistem |
 | :--- | :--- | :--- |
 | **Peminjam** | Umum (general), baru pada Pertemuan 4 | Peran umum bagi peminjam peralatan. Mewariskan fungsinya kepada Mahasiswa dan Dosen. |
